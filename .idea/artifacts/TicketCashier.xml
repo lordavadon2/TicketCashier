@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="TicketCashier">
+    <output-path>$PROJECT_DIR$/out/artifacts/TicketCashier</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="cashier.Main" />
+        <option name="description" value="" />
+        <option name="height" value="715" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+        <option name="width" value="930" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="TicketCashier.jar">
+        <element id="module-output" name="TicketCashier" />
+      </element>
+    </root>
+  </artifact>
+</component>
